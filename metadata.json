@@ -1,0 +1,6 @@
+{
+  "name": "Zenith Travel",
+  "description": "Full-stack minimalist travel planner and itinerary guide with destination overviews, trail logistics, interactive activity timeline, reviews, and MongoDB data layer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
